@@ -43,7 +43,7 @@ Al-Hamd Center is a modern e-commerce web application built with React. It provi
 
 1. Clone the repository
 ```bash
-git clone https://github.com/abdelrhmanMohmdt06/GraduationProject1.git
+git clone https://github.com/abdelrhmanalshrqt06/GraduationProjectITI.git
 cd graduation-p
 ```
 
